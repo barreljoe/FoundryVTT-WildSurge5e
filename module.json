@@ -11,5 +11,6 @@
     "./scripts/main.js"
   ],
   "url": "https://github.com/barreljoe/FoundryVTT-WildSurge5e",
-  "manifest": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/raw/master/module.json"
+  "manifest": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/raw/master/module.json",
+  "download": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/archive/master.zip"
 }
