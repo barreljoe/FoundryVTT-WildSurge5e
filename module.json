@@ -10,7 +10,7 @@
   "esmodules": [
     "./scripts/main.js"
   ],
-  "url": "https://github.com/barreljoe/FoundryVTT-WildSurge5e",
+  "url": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/tree/master",
   "manifest": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/raw/master/module.json",
-  "download": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/archive/master.zip"
+  "download": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/archive/v0.0.1a.zip"
 }
