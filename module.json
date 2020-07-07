@@ -6,6 +6,10 @@
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.4",
+  "system": "dnd5e",
+  "esmodules": [
+    "./scripts/main.js"
+  ],
   "url": "https://github.com/barreljoe/FoundryVTT-WildSurge5e",
   "manifest": "https://github.com/barreljoe/FoundryVTT-WildSurge5e/raw/master/module.json"
 }
